@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
 DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,serv00.com
+DOMAIN-SUFFIX,tweek.top
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
