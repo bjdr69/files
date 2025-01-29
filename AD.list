@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,cdn.cnbj1.fds.api.mi-img.com
 DOMAIN-SUFFIX,resolver.msg.xiaomi.net
 DOMAIN-SUFFIX,media.ptmi.gitv.tv
 DOMAIN-SUFFIX,sdktjapi.keeflys.com
+DOMAIN-SUFFIX,zmapi.dangsfly.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ad.
