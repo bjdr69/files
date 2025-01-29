@@ -21,8 +21,11 @@ DOMAIN-SUFFIX,xiaomifood.cn
 DOMAIN-SUFFIX,saas.hpplay.cn
 DOMAIN-SUFFIX,api.gitv.tv
 DOMAIN-SUFFIX,cchelper.tv.mi.com
-DOMAIN-SUFFIX,xiaomixiaoai.com
 DOMAIN-SUFFIX,ot.io.mi.com
+DOMAIN-SUFFIX,cdn.cnbj1.fds.api.mi-img.com
+DOMAIN-SUFFIX,resolver.msg.xiaomi.net
+DOMAIN-SUFFIX,media.ptmi.gitv.tv
+DOMAIN-SUFFIX,sdktjapi.keeflys.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ad.
