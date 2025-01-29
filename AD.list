@@ -1,0 +1,25 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN-SUFFIX,otysdktj.niuaniua.com
+DOMAIN-SUFFIX,market.xiaomi.com
+stat.xiaomi.com
+ad.*.xiaomi.com
+ad.xiaomi.com
+api.d.xiaomi.com
+api.installer.xiaomi.com
+api.miui.security.xiaomi.com
+pandora.xiaomi.com
+sys.intl.xiaomi.com
+mistat.xiaomi.com
+api.xiaomi.com
+sentry.d.xiaomi.net
+shenghuo.xiaomi.com
+intl.xiaomi.com
+thuthuatxiaomi.co
+tracker.ai.xiaomi.com
+|xiaomifood.cn
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,ad.
