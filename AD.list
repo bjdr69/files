@@ -1,5 +1,3 @@
-# 代理补充列表
-
 # 域名后缀匹配
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,otysdktj.niuaniua.com
@@ -24,10 +22,10 @@ DOMAIN-SUFFIX,saas.hpplay.cn
 DOMAIN-SUFFIX,api.gitv.tv
 DOMAIN-SUFFIX,cchelper.tv.mi.com
 DOMAIN-SUFFIX,xiaomixiaoai.com
+DOMAIN-SUFFIX,ot.io.mi.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ad.
-DOMAIN-KEYWORD,access.speech.xiaomixiaoai.com
 
 # IP段匹配
 IP-CIDR,114.247.154.6/32,no-resolve
