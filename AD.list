@@ -1,3 +1,4 @@
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,otysdktj.niuaniua.com
@@ -32,6 +33,6 @@ DOMAIN-SUFFIX,zmapi.dangsfly.com
 DOMAIN-KEYWORD,ad.
 
 # IP段匹配
-IP-CIDR,114.247.154.6/32,no-resolve
-IP-CIDR,120.52.181.243/32,no-resolve
-IP-CIDR,60.28.217.98/32,no-resolve
+#IP-CIDR,114.247.154.6/32,no-resolve
+#IP-CIDR,120.52.181.243/32,no-resolve
+#IP-CIDR,60.28.217.98/32,no-resolve
