@@ -54,6 +54,6 @@
 +.ot.io.mi.com
 +.cdn.cnbj1.fds.api.mi-img.com
 +.resolver.msg.xiaomi.net
-+.media.ptmi.gitv.tv
+*.ptmi.gitv.tv
 +.sdktjapi.keeflys.com
 +.zmapi.dangsfly.com
