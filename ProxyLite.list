@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,api.groq.com
 DOMAIN-SUFFIX,aktv.top
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,sublink.neon-color.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
