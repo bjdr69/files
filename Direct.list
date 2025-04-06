@@ -2,19 +2,6 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,neon-color.com
-DOMAIN-SUFFIX,qnap.com
-DOMAIN-SUFFIX,openrouter.ai
-DOMAIN-SUFFIX,bjdr.cloudns.be
-DOMAIN-SUFFIX,bjdr.us.kg
-DOMAIN-SUFFIX,neoncdn.us.kg
-DOMAIN-SUFFIX,wxyy88.com
-DOMAIN-SUFFIX,qrrs56.com
-DOMAIN-SUFFIX,xxya88.com
-DOMAIN-SUFFIX,jklmmn.com
-DOMAIN-SUFFIX,wwxy0.com
-DOMAIN-SUFFIX,qrrs56.com
-DOMAIN-SUFFIX,servyou.com.cn
 
 
 #域名字符串匹配
